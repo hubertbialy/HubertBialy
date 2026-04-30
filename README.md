@@ -2,7 +2,7 @@
 
 ## Finance, Controlling & Data Analysis 
 
-I’m a Junior Accountant with 3+ years of experience in accounting, cost control, and financial reporting. I focus on data analysis in Excel and improving financial processes.
+I’m a Mid Accountant with 3+ years of experience in accounting, cost control, and financial reporting. I focus on data analysis in Excel and improving financial processes.
 
 I support controlling teams with cost, pricing, and discount analysis, while also building tools that streamline daily operations. Currently, I’m developing towards Financial Controlling and Data Analysis roles.
 
