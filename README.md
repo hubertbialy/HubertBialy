@@ -1,6 +1,6 @@
 # 👋 I'm Hubert
 
-## Finance, Controlling & Data Analysis | Excel, SQL & Process Optimization
+## Finance, Controlling & Data Analysis 
 
 I’m a Junior Accountant with 3+ years of experience in accounting, cost control, and financial reporting. I focus on data analysis in Excel and improving financial processes.
 
