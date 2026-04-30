@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 I'm Hubert
 
-<!--
-**hubertbialy/HubertBialy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Finance, Controlling & Data Analysis | Excel, SQL & Process Optimization
 
-Here are some ideas to get you started:
+I’m a Junior Accountant with 3+ years of experience in accounting, cost control, and financial reporting. I focus on data analysis in Excel and improving financial processes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I support controlling teams with cost, pricing, and discount analysis, while also building tools that streamline daily operations. Currently, I’m developing towards Financial Controlling and Data Analysis roles.
+
+---
+
+## Highlights:
+
+- **Experience:** 3+ years in accounting, reporting, and cost control  
+- **Data Analysis:** Advanced Excel (dashboards, pivot tables, automation)  
+- **Process Optimization:** Improved reporting workflows and reduced processing time  
+- **Scale:** Managed ~3000 invoices monthly and verified costs ~5M PLN/month  
+- **Collaboration:** Worked with international accounting and controlling teams  
+
+---
+
+## My Toolkit
+
+---
+
+## Let's Connect!
+
+📧 bialyhubert00@gmail.com  
+🔗 https://github.com/hubertbialy  
+📱 +48 570 737 079
