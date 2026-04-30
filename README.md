@@ -1,4 +1,4 @@
-#📊 I'm Hubert
+## 📊 I'm Hubert
 
 **`Finance, Controlling & Data Analysis`**
 
@@ -18,7 +18,7 @@ I support controlling teams with cost, pricing, and discount analysis, while als
 
 ---
 
-##🧰 My Toolkit
+## 🧰 My Toolkit
 
 ---
 
