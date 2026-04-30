@@ -1,4 +1,4 @@
-# 👋 I'm Hubert
+# 📊 I'm Hubert
 
 ## Finance, Controlling & Data Analysis 
 
