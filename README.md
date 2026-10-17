@@ -36,5 +36,4 @@ I support controlling teams with cost, pricing, and discount analysis, while als
 ## Let's Connect!
 
 📧 bialyhubert00@gmail.com  
-🔗 https://github.com/hubertbialy  
 📱 +48 570 737 079
